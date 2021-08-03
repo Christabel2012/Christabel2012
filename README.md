@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Christabel2012
 - 👀 I’m interested in reading profiles
 - 🌱 I’m currently learning about reading
-- 💞️ I’m looking to collaborate on coding password
+- 💞️ I’m looking to collaborate on coding passwords
 - 📫 How to reach me readable
 
 <!---
